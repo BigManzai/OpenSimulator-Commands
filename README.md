@@ -1,4 +1,4 @@
-# OpenSimulator-Commands
+# OpenSimulator-Commands Python 3.x
 
 osAlert(message)
 
